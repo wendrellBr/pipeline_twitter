@@ -24,7 +24,7 @@ Certifique-se de ter os seguintes itens instalados:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/wendrellBr/pipeline_twitter.git
    cd SEU_REPOSITORIO
    ```
 
